@@ -70,7 +70,6 @@ We’re a startup on a mission to grow and innovate. If you’re a developer, de
 
 📡 **Stay Connected**:  
 🌍 Website: [sectorct.com](https://sectorct.com) (coming soon)  
-🐦 Twitter: @SectorCT (follow us!)  
-📖 Docs: [docs.sectorct.com](https://docs.sectorct.com) (work in progress)
+🐦 Twitter: @sector_ct (follow us!)  
 
 📜 **Licensed under the MIT License** – Because great ideas deserve to be shared.
